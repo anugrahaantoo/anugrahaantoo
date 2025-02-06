@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anugraha Antoo Kanjookaran! 👋
 
-<!--
-**anugrahaantoo/anugrahaantoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a Software Engineer currently pursuing my Master's in Software Engineering at Heriot-Watt University. Passionate about technology and problem-solving, I specialize in programming, automation, and data analytics.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Programming: Python, Java, C++, C#
+- Data & Analytics: SQL, MySQL, Power BI
+- Web Development: HTML, CSS, PHP
+- Software Testing: Automation, API Testing, Regression Analysis
+- Machine Learning: NLP, Logistic Regression, Random Forest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- **Hate Speech Detection in Twitter** – Implemented NLP models for text classification.
+- **RhythmicMood** – A music recommendation system using emotion detection.
+- **E-sports Tournament Website** – Built a platform for organizing gaming tournaments.
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/anugraha-antoo](https://www.linkedin.com/in/anugraha-antoo)
+- Email: anugrahaantoo@gmail.com
+
+### ⚡ Fun Fact
+I enjoy exploring emerging technologies and continuously learning new skills!
+
