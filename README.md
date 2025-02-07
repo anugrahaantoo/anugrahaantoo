@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I am a Software Engineer currently pursuing my Master's in Software Engineering at Heriot-Watt University. Passionate about technology and problem-solving, I specialize in programming, automation, and data analytics.
 
+##🎓 Education
+
+- MSc in Software Engineering, Heriot-Watt University (Ongoing)
+- BTech in Computer Science with Honours, Rajagiri School of Engineering & Technology
+
 ## 💻 Skills
 - Programming: Python, Java, C++, C#
 - Data & Analytics: SQL, MySQL, Power BI
