@@ -1,29 +1,36 @@
 # Hi, I'm Anugraha Antoo Kanjookaran! 👋
 
-## 🚀 About Me
-I am a Software Engineer currently pursuing my Master's in Software Engineering at Heriot-Watt University. Passionate about technology and problem-solving, I specialize in programming, automation, and data analytics.
+### AI Engineer | Agentic AI | RAG | Python
 
-## 🎓 Education
+I'm an AI Engineer based in Dubai, UAE, with an MSc in Software Engineering (Distinction) from Heriot-Watt University.
 
-- MSc in Software Engineering, Heriot-Watt University (Ongoing)
-- BTech in Computer Science with Honours, Rajagiri School of Engineering & Technology
+Currently working at **Moro Hub**, I'm interested in building intelligent applications using AI agents, LLMs, RAG, and automation. I enjoy exploring new technologies and turning ideas into practical solutions.
 
-## 💻 Skills
-- Programming: Python, Java, C++, C#
-- Data & Analytics: SQL, MySQL, Power BI
-- Web Development: HTML, CSS, PHP
-- Software Testing: Automation, API Testing, Regression Analysis
-- Machine Learning: NLP, Logistic Regression, Random Forest
+- Currently working on agentic AI and natural-language analytics.
+- Interested in AI/ML, LLMs, RAG, and intelligent automation.
+- Experienced in Python, FastAPI, LangGraph, React, and PostgreSQL.
+- MSc Software Engineering graduate with Distinction.
+- UAE Golden Visa Holder, based in Dubai.
 
-## 🔭 Projects
-- **Hate Speech Detection in Twitter** – Implemented NLP models for text classification.
-- **RhythmicMood** – A music recommendation system using emotion detection.
-- **E-sports Tournament Website** – Built a platform for organizing gaming tournaments.
+### 🛠️ Tech Stack
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/anugraha-antoo](https://www.linkedin.com/in/anugraha-antoo)
-- Email: anugrahaantoo@gmail.com
+**Languages:** Python, JavaScript, Java, SQL, C++
 
-### ⚡ Fun Fact
-I enjoy exploring emerging technologies and continuously learning new skills!
+**AI/ML:** LangGraph, OpenAI, RAG, Ollama, Scikit-learn, XGBoost
 
+**Development:** FastAPI, Flask, React, PostgreSQL, MongoDB
+
+**Tools:** Docker, Git, GitHub, n8n, Pinecone, Qdrant
+
+### 🚀 Featured Projects
+
+- **Credit Risk Agentic Analytics** — Natural-language analytics over relational data using AI agents and SQL.
+- **HEMAM WhatsApp AI Assistant** — AI-powered conversational assistant with RAG, appointment booking, and analytics.
+- **Indoor Air Quality Prediction** — Machine learning models for indoor air-quality prediction and visualisation.
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/anugraha-antoo)
+- [Email](mailto:anugrahaantoo@gmail.com)
+
+✨ Always learning, building, and exploring what's possible with AI!
